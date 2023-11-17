@@ -4,6 +4,14 @@
 
 Welcome to the IPL Data Science Project! This repository offers a deep dive into the rich tapestry of the Indian Premier League (IPL) spanning from 2008 to 2018. Our objective is to provide a comprehensive analysis that goes beyond mere statistics, uncovering the stories behind team dynamics, player performances, and the evolving landscape of one of the most celebrated cricket tournaments.
 
+## Dashboard Overview
+
+![image](https://github.com/M-Hitesh/IPL-Insights-Analysis/assets/71482187/92d4b362-7386-4b7b-ba55-76863f398321)
+
+## Pivot Tables
+
+![image](https://github.com/M-Hitesh/IPL-Insights-Analysis/assets/71482187/38a2c0f2-053e-468b-bedc-f8c9e2615971)
+
 ## Data
 
 ### Source
