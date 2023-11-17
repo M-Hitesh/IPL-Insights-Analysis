@@ -20,7 +20,7 @@ The dataset is a curated collection from various reputable sources, ensuring a h
 
 ### Format
 
-The structured format of the dataset facilitates easy exploration and analysis. Each row represents a unique match, with columns capturing essential details. This richness of data enables us to draw meaningful insights and paint a detailed picture of the IPL journey from its inception.
+The structured format of the dataset facilitates easy exploration and analysis. Each row represents a unique match, with columns capturing essential details such as venue, toss, man of the match, toss decision. This richness of data enables us to draw meaningful insights and paint a detailed picture of the IPL journey from its inception.
 
 ## Analysis
 
@@ -28,7 +28,7 @@ The structured format of the dataset facilitates easy exploration and analysis. 
 
 1. **Team-wise Performance Trends:** Our analysis aims to uncover patterns and trends in the performance of IPL teams over the years. We explore win-loss ratios, streaks, and overall consistency to identify factors contributing to team success.
 
-2. **Player Statistics and Rankings:** Delving into player data, we analyze batting averages, bowling figures, and other performance metrics. Our goal is to identify standout players, trends in player rankings, and contributions to team success.
+2. **Player Statistics and Rankings:** Delving into player data, we analyze man of the match and series, and other performance metrics. Our goal is to identify trends in player rankings, and contributions to team success.
 
 ### Methodology
 
@@ -43,12 +43,8 @@ The analysis leverages the power of Python and popular data science libraries. T
 
 ### Player Statistics and Rankings
 
-- Player XYZ stands out with the highest run-scorer title and an impressive batting average.
-- Bowler ABC secures the highest number of wickets in a single season, making a significant impact on their team's success.
+- Chris Gayle stands out with the highest run-scorer title and an impressive batting average.
 
-### Visualizations
-
-Included in this repository are visualizations that vividly represent the uncovered trends and insights. These visual aids offer a dynamic perspective, making it easier to comprehend the complex patterns within the IPL dataset.
 
 Feel free to clone this repository and explore the codebase to replicate the analyses or contribute to further exploration!
 
